@@ -1,0 +1,49 @@
+Directions (Q1-Q2): Based on the digit-alphabets-symbols series given below, answer the following questions:
+@ 1 8 H L I 6 K * & ? U E
+Q 1. How many such consonants are there in the series which are immediately followed by a symbol and preceded by a number?
+One
+Two
+Three
+None
+Four
+
+Ans-: 6K* = option 1) One
+
+Q 2. How many numbers are there in the series which are preceded by a vowel and succeeded by a consonant?
+Two
+Four
+Three
+None
+One
+
+Ans-: I6K = option 5) One
+
+3.  Find the term which does not fit into the series: 
+(A) 5FU
+(B) 15LS
+(C) 9IT
+(D) 17OR
+
+Ans-: option B) 15 LS is wrong because 5+4=9+14=13+4=17 only 13 is absent
+
+4.  2A11, 4D13, 12G17, ?
+(A) 36I19
+(B) 36J21
+(C) 48J21
+(D) 48J23
+
+Ans-: option D)48J23 bacause = number*4+(lettter+2)+(number difference increease by 2)
+
+5.  J2Z, K4X, 17V, ?, H16R, M22P
+(A) I11T
+(B) L11S
+(C) L12T
+(D) L12S
+
+Ans-: last letter:P+2= R+2= T+2= V+2= X+2 = Z+2
+      Middle number: 22-6= 16-5 = 11-4 = 7-3= 4-2 =2
+      Last Letter: j+1=k-2=I+3=L-4=H+5=M
+
+L11T Option is not given so none of these
+
+
